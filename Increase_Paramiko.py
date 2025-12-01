@@ -24,7 +24,7 @@ def setup_logger(ip: str):
     logger = logging.getLogger(ip)
     
     # 避免重复添加handler
-    if logger.handlers:
+    if logger.handlers:  
         return logger
         
     logger.setLevel(logging.INFO)
