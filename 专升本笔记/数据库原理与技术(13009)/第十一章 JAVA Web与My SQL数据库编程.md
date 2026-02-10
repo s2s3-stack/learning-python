@@ -14,6 +14,11 @@ Tomcat目录及主要文件说明
 		webapps目录用来存放应用程序，当Tomcat 启动时会加载webapps目录下的应用程序。
 	work目录
 		work目录用来存放Tomcat在运行时编译后的文件，如JSP编译后的文件。清空work目录，然后重启Tomcat，可以达到清除缓存的目的。
+
+> [!NOTE]
+> 2025年4月模拟题
+> 选择题_第12题
+
 servlet/JSP的工作原理
 	Servlet是一种独立于平台和协议、在服务器端运行的Java应用程序，可以生成动态Web 页 面，其名称来自于Service+Applet，表示小服务程序。
 	JSP是对 Servlet的补充，JSP源程序编译后就是一个 Servlet。

@@ -26,6 +26,11 @@ MySQL中的系统数据库
 			简化的performance_schema
 		mysql
 			这是MySQL的核心数据库，类似于SQL Server中的master表，主要负责存储数据库的用户、权限设置、关键字等MySQL自己需要使用的控制和管理信息。
+
+> [!NOTE]
+> 2025年4月模拟题
+> 选择题_第9题
+
 MySQL日志
 	MySQL日志记录了MySQL数据库日常操作和错误信息，为MySQL管理和优化提供必要的决策依据
 	MySQL日志分为5类:
