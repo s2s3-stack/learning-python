@@ -12,6 +12,12 @@ JDBC常用接口及常用方法简介
 	Connection 接口
 		Connection是数据库连接对象，每个Connection代表一个物理连接会话
 			Connection conn= DriverManager. getConnection (url,user, pass) ;
+
+> [!NOTE]
+> 2025年4月模拟题
+> 选择题_第11题
+
+-
 	Statement 接口
 		Statement对象用于向数据库发送SQL语向并返回它所生成结果的对象
 			Statement stmt = conn. createStatement () ;
