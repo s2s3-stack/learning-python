@@ -20,6 +20,9 @@ Tomcat目录及主要文件说明
 > 选择题_第12题
 
 servlet/JSP的工作原理
-	Servlet是一种独立于平台和协议、在服务器端运行的Java应用程序，可以生成动态Web 页 面，其名称来自于Service+Applet，表示小服务程序。
-	JSP是对 Servlet的补充，JSP源程序编译后就是一个 Servlet。
+	Servlet是一种独立于平台和协议、在服务器端运行的Java应用程序，可以生成动态Web 页面，其名称来自于Service+Applet，表示小服务程序。
+	JSP是对 Servlet的补充，JSP源程序编译后就是一个 Servlet.
+> [!NOTE]
+> 2025年4月模拟题
+> 填空题_第32题
 	
